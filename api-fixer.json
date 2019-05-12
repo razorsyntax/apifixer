@@ -1,6 +1,225 @@
 {
+        "ZNT": {
+            "name": "Zenswap Network Token"
+        },
+        "YLC": {
+            "name": "YoloCash"
+        },
+        "XUEZ": {
+            "name": "Xues"
+        },
+        "XSG": {
+            "name": "SnowGem"
+        },
+        "XCEL": {
+            "name": "XcelToken"
+        },
+        "XBI": {
+            "name": "Bitcoin Incognito"
+        },
+        "WIX": {
+            "name": "Wixlar"
+        },
+        "WAB": {
+            "name": "WABnetwork"
+        },
+        "VERI": {
+            "name": "Veritaseum"
+        },
+        "UNIFY": {
+            "name": "Unify"
+        },
+        "TRXC": {
+            "name": "TRONCLASSIC"
+        },
+        "TCC": {
+            "name": "The ChampCoin"
+        },
+        "SAFE": {
+            "name": "SAFE"
+        },
+        "S4F": {
+            "name": "S4FE"
+        },
+        "RISE": {
+            "name": "Rise"
+        },
+        "QCH": {
+            "name": "QChi"
+        },
+        "PWR": {
+            "name": "PWR Coin"
+        },
+        "POSS": {
+            "name": "Posscoin"
+        },
+        "NSD": {
+            "name": "Nasdacoin"
+        },
+        "NRP": {
+            "name": "Neural Protocol"
+        },
+        "NOTE": {
+            "name": "Dnotes"
+        },
+        "NIX": {
+            "name": "NIX"
+        },
+        "NAVY": {
+            "name": "BoatPilot Token"
+        },
+        "N8V": {
+            "name": "NativeCoin"
+        },
+        "MTC": {
+            "name": "doc.com"
+        },
+        "MNTP": {
+            "name": "Goldmint"
+        },
+        "MICRO": {
+            "name": "Micromines"
+        },
+        "MATIC": {
+            "name": "Matic Network"
+        },
+        "KNDC": {
+            "name": "KanadeCoin"
+        },
+        "KLKS": {
+            "name": "Kalkulus"
+        },
+        "JOINT": {
+            "name": "Joint Ventures"
+        },
+        "JET": {
+            "name": "Jetcoin"
+        },
+        "IETH": {
+            "name": "iEthereum"
+        },
+        "IBTC": {
+            "name": "iBTC"
+        },
+        "HERB": {
+            "name": "Herbalist Token"
+        },
+        "HELP": {
+            "name": "GoHelpFund"
+        },
+        "FTN": {
+            "name": "Fountain"
+        },
+        "FOXT": {
+            "name": "Fox Trading"
+        },
+        "EXO": {
+            "name": "Exosis"
+        },
+        "EVN": {
+            "name": "Envion"
+        },
+        "EVC": {
+            "name": "EventChain"
+        },
+        "ETHO": {
+            "name": "Ether-1"
+        },
+        "ERC20": {
+            "name": "ERC20"
+        },
+        "ELTCOIN": {
+            "name": "ELTCOIN"
+        },
+        "ELD": {
+            "name": "electrumdark"
+        },
+        "DTX": {
+            "name": "Digital Ticks"
+        },
+        "DSR": {
+            "name": "Desire"
+        },
+        "DIME": {
+            "name": "Dimecoin"
+        },
+        "DCTO": {
+            "name": "Decentralized Crypto Token Markets"
+        },
+        "CYL": {
+            "name": "Crystal Token"
+        },
+        "CSOUL": {
+            "name": "CryptoSoul"
+        },
+        "CL": {
+            "name": "Coinlancer"
+        },
+        "CCO": {
+            "name": "Ccore Token"
+        },
+        "BTW": {
+            "name": "BitWhite"
+        },
+        "BTR": {
+            "name": "Bitether"
+        },
+        "BTK": {
+            "name": "Bitcoin Token"
+        },
+        "BOUTS": {
+            "name": "BoutsPro"
+        },
+        "BON": {
+            "name": "Bonpay"
+        },
+        "BNANA": {
+            "name": "Chimpion"
+        },
+        "BIS": {
+            "name": "Bismuth"
+        },
+        "CTRT": {
+            "name": "Cryptrust"
+        },
+        "BELA": {
+            "name": "Bela"
+        },
+        "BEET": {
+            "name": "Beetle Coin"
+        },
+        "BBT": {
+            "name": "BitBoost"
+        },
+        "B2B": {
+            "name": "B2BX"
+        },
+        "AUX": {
+            "name": "Auxilium"
+        },
+        "ARO": {
+            "name": "Arionum"
+        },
+        "ARAW": {
+            "name": "ARAW Token"
+        },
+        "APC": {
+            "name": "Alpha Coin"
+        },
+        "AAA": {
+            "name": "Abulaba"
+        },
         "WELL": {
             "name": "WELL"
+        },
+        "KAT": {
+            "name": "Kambria"
+        },
+        "XDAG": {
+            "name": "Dagger"
+        },
+        "BUD": {
+            "name": "Buddy"
         },
         "TRF": {
             "name": "Travelflex"
