@@ -2,6 +2,24 @@
         "ZNT": {
             "name": "Zenswap Network Token"
         },
+        "CCT": {
+            "name": "Crystal Clear"
+        },
+        "DALC": {
+            "name": "Dale Coin"
+        },
+        "KNT": {
+            "name": "Kora"
+        },
+        "WTN": {
+            "name": "Waletoken"
+        },
+        "BLOC": {
+            "name": "Blockcloud"
+        },
+        "TVNT": {
+            "name": "TravelNote"
+        },
         "YLC": {
             "name": "YoloCash"
         },
