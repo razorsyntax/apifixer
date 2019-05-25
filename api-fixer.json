@@ -1,4 +1,19 @@
 {
+        "BRDG": {
+            "name": "BridgeProtocol"
+        },
+        "GLC": {
+            "name": "GoldCoin"
+        },
+        "MOAC": {
+            "name": "MOAC"
+        },
+        "SDC": {
+            "name": "SDChain"
+        },
+        "TEAM": {
+            "name": "TokenStars"
+        },
         "ZNT": {
             "name": "Zenswap Network Token"
         },
@@ -295,31 +310,31 @@
         },
         "ACDC": {
             "name": "VOLT"
-        }, 
+        },
         "ATOM": {
             "name": "Cosmos"
-        }, 
+        },
         "BCW": {
             "name": "Bitcoin Wonder"
-        }, 
+        },
         "BEC": {
             "name": "Beauty"
-        }, 
+        },
         "BKBT": {
             "name": "BeeKan"
-        }, 
+        },
         "BRC": {
             "name": "BaerChain"
-        }, 
+        },
         "BTH": {
             "name": "Bitcoin Hot"
-        }, 
+        },
         "BTP": {
             "name": "Bitpound"
-        }, 
+        },
         "BTSU": {
             "name": "Bitsou"
-        }, 
+        },
         "BUT": {
             "name": "BitUP Token"
         },
@@ -328,22 +343,22 @@
         },
         "CAI": {
             "name": "CAI Token"
-        }, 
+        },
         "CCCM": {
             "name": "Coindom"
-        }, 
+        },
         "CDC": {
             "name": "Commerce Data Connection"
-        }, 
+        },
         "CENT": {
             "name": "Center Coin"
-        }, 
+        },
         "CIC": {
             "name": "CIChain"
-        }, 
+        },
         "CODY": {
             "name": "Coindy"
-        }, 
+        },
         "CONTENT": {
             "name": "Content Protocol Token"
         },
@@ -352,22 +367,22 @@
         },
         "CRN": {
             "name": "ChronoCoin"
-        }, 
+        },
         "DASC": {
             "name": "DasCoin"
-        }, 
+        },
         "DDM": {
             "name": "DDMCoin"
-        }, 
+        },
         "DIP": {
             "name": "Etherisc"
-        }, 
+        },
         "DUC": {
             "name": "DucatusCoin"
-        }, 
+        },
         "DVC": {
             "name": "DragonVein Coin"
-        }, 
+        },
         "EDU": {
             "name": "EduCoin"
         },
@@ -376,22 +391,22 @@
         },
         "ENTCASH": {
             "name": "ENTCash"
-        }, 
+        },
         "EPC": {
             "name": "Electronic PK Chain"
-        }, 
+        },
         "FAB": {
             "name": "Fast Access Blockchain"
-        }, 
+        },
         "FACC": {
             "name": "FACC"
-        }, 
+        },
         "FAIRGAME": {
             "name": "FAIRGAME"
-        }, 
+        },
         "FCC": {
             "name": "Five Colors Coin"
-        }, 
+        },
         "GLDR": {
             "name": "Golder"
         },
@@ -400,263 +415,263 @@
         },
         "GON": {
             "name": "GoNetwork"
-        }, 
+        },
         "GRAM": {
             "name": "GRAM Coin"
-        }, 
+        },
         "GVE": {
             "name": "Globalvillage Ecosystem"
-        }, 
+        },
         "HAPPY": {
             "name": "Happy Token"
-        }, 
+        },
         "HDAC": {
             "name": "Hdac"
-        }, 
+        },
         "HOTC": {
             "name": "HOTchain"
-        }, 
+        },
         "HPT": {
             "name": "Huobi Pool Token"
         },
         "HPY": {
             "name": "Hyper Pay"
-        }, 
+        },
         "HUSD": {
             "name": "HUSD"
-        }, 
+        },
         "IDT": {
             "name": "InvestDigital"
-        }, 
+        },
         "IIC": {
             "name": "Intelligent Investment Chain"
-        }, 
+        },
         "IRIS": {
             "name": "IRISnet"
-        }, 
+        },
         "KRWB": {
             "name": "KRWb"
-        }, 
+        },
         "KUKY": {
             "name": "Kuky Star"
-        }, 
+        },
         "LFC": {
             "name": "Linfinity"
-        }, 
+        },
         "LIGHT": {
             "name": "LightChain"
-        }, 
+        },
         "LIT": {
             "name": "Lition"
-        }, 
+        },
         "LVTC": {
             "name": "LVTC"
-        }, 
+        },
         "MEET": {
             "name": "CoinMeet"
-        }, 
+        },
         "MEX": {
             "name": "MEX"
-        }, 
+        },
         "MINX": {
             "name": "InnovaMinex"
-        }, 
+        },
         "MOF": {
             "name": "Molecular Future"
-        }, 
+        },
         "MRIT": {
             "name": "Merit"
-        }, 
+        },
         "MT": {
             "name": "MyToken"
-        }, 
+        },
         "MUSK": {
             "name": "Musk"
-        }, 
+        },
         "MVPT": {
             "name": "MediaLink"
-        }, 
+        },
         "NBOT": {
             "name": "NakaBOT"
-        }, 
+        },
         "NEW": {
             "name": "Newton"
-        }, 
+        },
         "NNB": {
             "name": "NNB token"
-        }, 
+        },
         "OF": {
             "name": "OFCOIN"
-        }, 
+        },
         "OKB": {
             "name": "OKEx Utility Token"
-        }, 
+        },
         "ONTGAS": {
             "name": "Ontology Gas"
-        }, 
+        },
         "OZX": {
             "name": "OZEX"
-        }, 
+        },
         "PC": {
             "name": "PromotionChain"
-        }, 
+        },
         "PORTAL": {
             "name": "Portal"
-        }, 
+        },
         "QC": {
             "name": "QC"
-        }, 
+        },
         "RBG": {
             "name": "RankingBall"
-        }, 
+        },
         "RBTC": {
             "name": "RSK"
-        }, 
+        },
         "RCCC": {
             "name": "RCCC"
-        }, 
+        },
         "RCOIN": {
             "name": "Rcoin"
-        }, 
+        },
         "SBA": {
             "name": "simplyBrand"
-        }, 
+        },
         "SHE": {
             "name": "ShineChain"
-        }, 
+        },
         "SKYM": {
             "name": "Skymap"
-        }, 
+        },
         "SLT": {
             "name": "Social Lending Token"
-        }, 
+        },
         "SMARTUP": {
             "name": "SmartUp"
-        }, 
+        },
         "STB": {
             "name": "STB"
-        }, 
+        },
         "STC": {
             "name": "StarChain"
-        }, 
+        },
         "SWET": {
             "name": "SWE Token"
-        }, 
+        },
         "THM": {
             "name": "Themis Chain"
-        }, 
+        },
         "THPC": {
             "name": "Texas Hold'em Poker Chain"
-        }, 
+        },
         "TMTG": {
             "name": "The Midas Touch Gold"
-        }, 
+        },
         "TOC": {
             "name": "Tobigca"
-        }, 
+        },
         "TOPC": {
             "name": "TopChain"
-        }, 
+        },
         "TOS": {
             "name": "ThingsOperatingSystem"
-        }, 
+        },
         "TRA": {
             "name": "project:Trave"
-        }, 
+        },
         "TVND": {
             "name": "TrueVND"
-        }, 
+        },
         "TVS": {
             "name": "TrustVerse"
-        }, 
+        },
         "UBTC": {
             "name": "United Bitcoin"
-        }, 
+        },
         "UC": {
             "name": "YouLive Coin"
-        }, 
+        },
         "UCT": {
             "name": "Ubique Chain of Things"
-        }, 
+        },
         "UIP": {
             "name": "UnlimitedIP"
-        }, 
+        },
         "VBK": {
             "name": "VeriBlock"
-        }, 
+        },
         "VEEN": {
             "name": "VEEN"
-        }, 
+        },
         "VIAT": {
             "name": "ViaBTC Token"
-        }, 
+        },
         "VOLLAR": {
             "name": "VOLLAR"
-        }, 
+        },
         "VSC": {
             "name": "vSport Coin"
-        }, 
+        },
         "VTHO": {
             "name": "VeThor Token"
-        }, 
+        },
         "WBL": {
             "name": "WIZBL"
-        }, 
+        },
         "WBTC": {
             "name": "Wrapped Bitcoin"
-        }, 
+        },
         "WHEN": {
             "name": "WHEN Token"
-        }, 
+        },
         "WIN": {
             "name": "WinToken"
-        }, 
+        },
 
         "XBG": {
             "name": "Bitgrin"
-        }, 
+        },
         "XT": {
             "name": "X Token"
-        }, 
+        },
         "YOU": {
             "name": "YOU COIN"
-        }, 
+        },
         "ZAT": {
             "name": "ZATGO"
-        }, 
+        },
         "ZB": {
             "name": "ZB"
-        }, 
+        },
         "ZJLT": {
             "name": "ZJLT Distributed Factoring Network"
-        }, 
+        },
         "ZLA": {
             "name": "Zilla"
-        }, 
+        },
         "AAC": {
             "name": "Acute Angle Cloud"
-        }, 
+        },
         "ABBC": {
             "name": "ABBC Coin"
-        }, 
+        },
         "ACE": {
             "name": "TokenStars"
-        }, 
+        },
         "AERGO": {
             "name": "Aergo"
-        }, 
+        },
         "AIDOC": {
             "name": "AI Doctor"
-        }, 
+        },
         "ALI": {
             "name": "AiLink Token"
-        }, 
+        },
         "ALX": {
             "name": "ALX Token"
         },
         "ANKR": {
             "name": "Ankr"
-        }, 
+        },
         "APL": {
             "name": "Apollo Coin"
         },
